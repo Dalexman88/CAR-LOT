@@ -55,13 +55,6 @@ CREATE TABLE `mechanic` (
   PRIMARY KEY (`mechanic_id`)
 );
 
-INSERT INTO customer VALUES(00098, 'Goku');
-INSERT INTO customer VALUES(00095, 'Bulma');
-INSERT INTO customer VALUES(00094, 'BUU');
-INSERT INTO customer VALUES(00093, 'Krillin');
-INSERT INTO mechanic VALUES(1, 'Bobby Hill');
-INSERT INTO mechanic VALUES(2, 'Hank Hill');
-INSERT INTO invoice VALUES(2929, 007, 422, 00096, 10000 );
-INSERT INTO salesperson VALUES(423, 'Donnie';
+
 SELECT * FROM ;
  
